@@ -1,0 +1,32 @@
+{
+  "flags": {
+    "s4g-1": {
+      "name": "s4g-1"
+    },
+    "s4g-2": {
+      "name": "s4g-2"
+    },
+    "s4g-3": {
+      "name": "s4g-3"
+    },
+    "s4g-4": {
+      "name": "s4g-4"
+    }
+  },
+  "values": {
+    "s4g-1": {
+      "enabled": true
+    },
+    "s4g-2": {
+      "enabled": false
+    },
+    "s4g-3": {
+      "enabled": false
+    },
+    "s4g-4": {
+      "enabled": false
+    }
+  },
+  "version": "1"
+}
+
